@@ -1,0 +1,3 @@
+preventDefault is used in the handlers to cancel the event and then, execute the remaninig codes in the function.
+
+JQuery plugin can be a third-party's code or our own custom piece of code which we use to perform operation on element(s) instead of using standard JQuery functions.
